@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "内科1 Practice Lab 2025-2022",
+  "short_name": "内科1 Practice",
+  "description": "2025〜2022年度 内科1 過去問800問。進捗保持・誤答復習・詳細解説付き。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f8fa",
+  "theme_color": "#315ea8",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
